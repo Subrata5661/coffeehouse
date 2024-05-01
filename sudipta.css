@@ -1,0 +1,432 @@
+.main{
+	background-color:white;
+	height:100%;
+	width:100%;
+}
+.box1{
+	background-color:#E0E0E0;
+	height:10%;
+	width:100%;
+	display:flex;
+	margin-bottom:10px;
+	
+}	
+.nav1{
+	background-color:#E0E0E0;
+	height:100%;
+	width:15%;
+	
+}	
+.nav2{
+	background-color:#E0E0E0;
+	height:100%;
+	width:70%;
+	display:flex;
+	align-items:center;
+	
+}	
+.nav3{
+	background-color:#E0E0E0;
+	height:100%;
+	width:15%;
+	
+}	
+.hmid{
+	height:500px;
+}
+.box2{
+	background-color:green;
+	height:70%;
+	width:96%;
+	margin-top:2%;
+	margin-left:2%;
+}	
+.box3{
+	background-color:white;
+	height:60%;
+	width:98%;
+	margin-top:2%;
+	margin-left:1%;
+	display:flex;
+}	
+.box4{
+	background-color:white;
+	height:60%;
+	width:98%;
+	margin-top:2%;
+	margin-left:1%;
+	display:flex;
+}	
+.box5{
+	background-color:white;
+	height:60%;
+	width:98%;
+	margin-top:5%;
+	margin-left:1%;
+	display:flex;
+	
+}	
+.card1{
+	background-color:#E0E0E0;
+	height:100%;
+	width:24%;
+	
+}	
+.card2{
+	background-color:#E0E0E0;
+	height:100%;
+	width:25%;
+	margin-left:1%;
+}	
+.card3{
+	background-color:#E0E0E0;
+	height:100%;
+	width:24%;
+	margin-left:1%;
+}	
+.card4{
+	background-color:#E0E0E0;
+	height:100%;
+	width:24%;
+	margin-left:1%;
+}	
+.card5{
+	background-color:#E0E0E0;
+	height:100%;
+	width:24%;
+	
+}	
+.card6{
+	background-color:#E0E0E0;
+	height:100%;
+	width:25%;
+	margin-left:1%;
+}	
+.card7{
+	background-color:#E0E0E0;
+	height:100%;
+	width:24%;
+	margin-left:1%;
+}	
+.card8{
+	background-color:#E0E0E0;
+	height:100%;
+	width:24%;
+	margin-left:1%;
+}	
+.gol1{
+	background-color:red;
+	height:100%;
+	width:30%;
+	border-radius:50%;
+}	
+.gol2{
+	background-color:red;
+	height:100%;
+	width:30%;
+	border-radius:50%;
+	margin-left:5%;
+}	
+.gol3{
+	background-color:red;
+	height:100%;
+	width:30%;
+	border-radius:50%;
+	margin-left:5%;
+}	
+.ber1{
+	background-color:#E0E0E0;
+	height:%;
+	width:20%;
+	color:white;
+}	
+.ber2{
+	background-color:#E0E0E0;
+	height:%;
+	width:20%;
+	color:white;
+}	
+.ber3{
+	background-color:#E0E0E0;
+	height:%;
+	width:20%;
+	color:white;
+}	
+.ber4{
+	background-color:#E0E0E0;
+	height:%;
+	width:20%;
+	color:white;
+}	
+.ber5{
+	background-color:#E0E0E0;
+	height:%;
+	width:20%;
+	color:white;
+}	
+.photo1{
+	background-color:yellow;
+	height:60%;
+	width:94%;
+	margin-left:3%;
+	margin-top:3%;
+}
+.photo2{
+	background-color:yellow;
+	height:60%;
+	width:94%;
+	margin-left:3%;
+	margin-top:3%;
+}
+.photo3{
+	background-color:yellow;
+	height:60%;
+	width:94%;
+	margin-left:3%;
+	margin-top:3%;
+}
+.photo4{
+	background-color:yellow;
+	height:60%;
+	width:94%;
+	margin-left:3%;
+	margin-top:3%;
+}
+.photo5{
+	background-color:yellow;
+	height:60%;
+	width:94%;
+	margin-left:3%;
+	margin-top:3%;
+}
+.photo6{
+	background-color:yellow;
+	height:60%;
+	width:94%;
+	margin-left:3%;
+	margin-top:3%;
+}
+.photo7{
+	background-color:yellow;
+	height:60%;
+	width:94%;
+	margin-left:3%;
+	margin-top:3%;
+}
+.photo8{
+	background-color:yellow;
+	height:60%;
+	width:94%;
+	margin-left:3%;
+	margin-top:3%;
+}
+.name1{
+	background-color:yellow;
+	height:15%;
+	width:94%;
+	margin-left:3%;
+	margin-top:3%;
+}
+.name2{
+	background-color:yellow;
+	height:15%;
+	width:94%;
+	margin-left:3%;
+	margin-top:3%;
+}
+.name3{
+	background-color:yellow;
+	height:15%;
+	width:94%;
+	margin-left:3%;
+	margin-top:3%;
+}
+.name4{
+	background-color:yellow;
+	height:15%;
+	width:94%;
+	margin-left:3%;
+	margin-top:3%;
+}
+.name5{
+	background-color:yellow;
+	height:15%;
+	width:94%;
+	margin-left:3%;
+	margin-top:3%;
+}
+.name6{
+	background-color:yellow;
+	height:15%;
+	width:94%;
+	margin-left:3%;
+	margin-top:3%;
+}
+.name7{
+	background-color:yellow;
+	height:15%;
+	width:94%;
+	margin-left:3%;
+	margin-top:3%;
+}
+.name8{
+	background-color:yellow;
+	height:15%;
+	width:46%;
+	margin-left:3%;
+	margin-top:3%;
+}
+.price1{
+	background-color:skyblue;
+	height:15%;
+	width:46%;
+	margin-left:3%;
+	margin-top:3%;
+}
+.price2{
+	background-color:skyblue;
+	height:15%;
+	width:46%;
+	margin-left:3%;
+	margin-top:3%;
+}.price3{
+	background-color:skyblue;
+	height:15%;
+	width:46%;
+	margin-left:3%;
+	margin-top:3%;
+}.price4{
+	background-color:skyblue;
+	height:15%;
+	width:46%;
+	margin-left:3%;
+	margin-top:3%;
+}.price5{
+	background-color:skyblue;
+	height:15%;
+	width:46%;
+	margin-left:3%;
+	margin-top:3%;
+}.price6{
+	background-color:skyblue;
+	height:15%;
+	width:46%;
+	margin-left:3%;
+	margin-top:3%;
+}.price7{
+	background-color:skyblue;
+	height:15%;
+	width:46%;
+	margin-left:3%;
+	margin-top:3%;
+}.price8{
+	background-color:skyblue;
+	height:15%;
+	width:46%;
+	margin-left:3%;
+	margin-top:3%;
+}
+.logo{
+	padding:10px;
+	margin-left:20px;
+}
+
+
+/*contact us*/
+.formlay{
+height:550px;
+width:50%;
+background-color:#0c2427;
+position:relative;
+top:80px;
+padding:20px;
+margin-right:20px;
+border-radius:20px;
+color:white;
+}
+.formcontainer{
+display:flex;
+justify-content:center;
+align-items:center;
+color:;
+font-weight:700;
+background-image: linear-gradient(
+  45deg,
+  hsl(151deg 86% 6%) 0%,
+  hsl(143deg 57% 11%) 11%,
+  hsl(131deg 45% 16%) 22%,
+  hsl(115deg 40% 21%) 33%,
+  hsl(100deg 46% 25%) 44%,
+  hsl(88deg 52% 28%) 56%,
+  hsl(78deg 59% 31%) 67%,
+  hsl(69deg 66% 34%) 78%,
+  hsl(62deg 74% 36%) 89%,
+  hsl(55deg 82% 41%) 100%
+);
+height:750px;
+}
+
+.formcard{
+	height:550px;
+	position:relative;
+	top:80px;
+	padding:20px;
+	margin-right:20px;
+	border-radius:20px;
+  background-image: linear-gradient(
+  45deg,
+  hsl(240deg 77% 78%) 0%,
+  hsl(274deg 77% 77%) 11%,
+  hsl(308deg 82% 76%) 22%,
+  hsl(323deg 100% 77%) 33%,
+  hsl(337deg 100% 77%) 44%,
+  hsl(358deg 100% 78%) 56%,
+  hsl(20deg 100% 72%) 67%,
+  hsl(36deg 100% 65%) 78%,
+  hsl(47deg 100% 58%) 89%,
+  hsl(55deg 100% 50%) 100%
+);
+
+	color:black;
+
+}
+.logincontainer{
+display:flex;
+justify-content:center;
+align-items:center;
+flex-direction:column;
+color:white;
+font-weight:700;
+background-image: linear-gradient(
+  45deg,
+  hsl(151deg 86% 6%) 0%,
+  hsl(143deg 57% 11%) 11%,
+  hsl(131deg 45% 16%) 22%,
+  hsl(115deg 40% 21%) 33%,
+  hsl(100deg 46% 25%) 44%,
+  hsl(88deg 52% 28%) 56%,
+  hsl(78deg 59% 31%) 67%,
+  hsl(69deg 66% 34%) 78%,
+  hsl(62deg 74% 36%) 89%,
+  hsl(55deg 82% 41%) 100%
+);
+height:750px;
+}
+.formlay{
+	height:400px;
+	width:60%;
+}
+.aboutu{
+	height:550px;
+	width:60%;
+	position:relative;
+	top:80px;
+	padding:20px;
+	margin-right:20px;
+	border-radius:20px;
+	background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+	color:black;
+}
+.logbutton{
+margin-top:100px;
+}
